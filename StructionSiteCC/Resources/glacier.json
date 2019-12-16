@@ -1,0 +1,27 @@
+
+[
+    {
+        "name" : "Alpha",
+        "latitude" : 48.5255977,
+        "longitude" : -113.9802879,
+        "description" : "On Lake, Supports 10 tent sites."
+    },
+    {
+        "name" : "Bravo",
+        "latitude" : 48.8118061,
+        "longitude" : -113.8512363,
+        "description" : "On-site bathrooms, supports 20 tent sites."
+    },
+    {
+        "name" : "Charlie",
+        "latitude" : 48.7417051,
+        "longitude" : -113.6435831,
+        "description" : "Supports 15 tent sites."
+    },
+    {
+        "name" : "Quebec",
+        "latitude" : 48.7225100,
+        "longitude" : -114.2242550,
+        "description" : "Supports 5 tent sites."
+    }
+]
